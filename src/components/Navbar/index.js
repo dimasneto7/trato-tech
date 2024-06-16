@@ -6,7 +6,7 @@ import Busca from 'components/Busca'
 // import { Link, useLocation, useNavigate } from 'react-router-dom'
 
 const iconeProps = {
-  color: 'black',
+  color: '#fff',
   size: 24,
 }
 

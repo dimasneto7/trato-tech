@@ -1,11 +1,10 @@
 @import 'styles/breakpoints';
 
 .header {
-  background-image: url('/assets/fundo.png');
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #1a1a1e;
   padding: 150px 120px 100px 120px;
   position: relative;
+  color: #fff;
   @media (max-width: $tablet) {
     padding-top: 250px;
   }
